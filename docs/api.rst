@@ -6,3 +6,9 @@ API Documentation
       :toctree: autosummary
 
       geometry_analysis.calculate_distance
+
+      .. autosummary::
+
+            :toctree: autosummary
+
+            geometry_analysis.calculate_angle
